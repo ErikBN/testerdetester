@@ -1,1 +1,2 @@
 dit is een lijn branch01
+Dit is lijn 01 van branch02
